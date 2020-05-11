@@ -4,7 +4,7 @@ from lxml import etree
 
 
 """
-Basic Usage
+Basic Usage in Repl.it
 - copy-paste urls of your target videos in the same style as the 4 links that are alread in "target_urls" right below.
 - run code using green button in header
 - downloadable transcripts will be generated for each vid in the left 
