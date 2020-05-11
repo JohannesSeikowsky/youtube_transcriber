@@ -10,17 +10,16 @@ Basic Usage
 - downloadable transcripts will be generated for each vid in the left 
 sidebar below main.py
 - In the output on the right hand side you can see an overview of download
-success and failures.
+successes and failures.
 Note: Adding punctuation to transcripts programmatically is surprisingly hard.
 """
 
 
 target_urls = [ 
-				"https://www.youtube.com/watch?v=nlT-3AnIKNE",
-				"https://www.youtube.com/watch?v=OFSbPql6ZY4",
-				"https://www.youtube.com/watch?v=5e6U1JnsI1c",
-				"https://www.youtube.com/watch?v=frHDrTLnekY" 
-				]
+		"https://www.youtube.com/watch?v=V37eWVm-9BA",
+		"https://www.youtube.com/watch?v=Hm4Sg086uLg",
+		"https://www.youtube.com/watch?v=B2-QCv-hChY",
+		]
 
 
 def get_title(url):
